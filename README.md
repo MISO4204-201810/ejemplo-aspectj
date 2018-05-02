@@ -71,11 +71,11 @@ Además, se tiene un plugin que combina los aspectos.
 
 ## Ejecución
 
-La aplicación solo incluye una prueba. Es posible ejecutar las pruebas desde la lóinea de comandos usando Maven.
+La aplicación solo incluye una prueba. Es posible ejecutar las pruebas desde la línea de comandos usando Maven.
 
 ```bash
 mvn test
 ```
 
-Si usa Eclipse, es posible importar el código como un `Proyecto Maven` y ejecutar las pruebas haciendo click-derecho sobre el proyecto `Run As > Maven test`.
+Si usa Eclipse, es posible importar el código como un `Proyecto Maven` y ejecutar las pruebas haciendo click-derecho sobre el proyecto y seleccionando `Run As > Maven test`.
 
